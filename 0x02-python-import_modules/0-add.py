@@ -1,6 +1,7 @@
 #!/usr/bin/python3
-# 0-add.py
+
 if __name__ == "__main__":
+    """This function gives the sum of 1 & 2."""
     from add_0 import add
 
     a = 1
